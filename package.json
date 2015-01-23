@@ -1,0 +1,28 @@
+{
+  "name": "through2-linereader",
+  "version": "0.0.1",
+  "description": "Yet another line reader stream, uses through2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faradayio/through2-linereader.git"
+  },
+  "keywords": [
+    "line",
+    "reader",
+    "linereader",
+    "transform",
+    "stream",
+    "through",
+    "through2"
+  ],
+  "author": "Tristan Davies <tristan@faraday.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/through2-linereader/issues"
+  },
+  "homepage": "https://github.com/faradayio/through2-linereader",
+  "dependencies": {
+    "through2": "^1.1.1"
+  }
+}
